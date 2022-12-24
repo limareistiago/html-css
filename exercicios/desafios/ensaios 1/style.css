@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+h1{
+    background-color: blue;
+    height: 150px;
+    border-radius: 15px;
+}
+
+ul {
+    background-color: aqua;
+    height: 200px;
+    width: 150px;
+    margin: auto;
+}
+
+.primeiro {
+    background-color: chartreuse;
+}
+
+table {
+    background-color: brown;
+}
+
+thead {
+    background-color: crimson;
+}
+
+th {
+    background-color: darkblue;
+}
